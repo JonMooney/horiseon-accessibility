@@ -15,7 +15,7 @@ This project was a great oppurtunity to put into practice some of the latest HTM
 
 ## Usage
 Visit the live site at the following URL:<br>
-<a href="https://jonmooney.github.io/horiseon-accessibility/" target="_blank">https://jonmooney.github.io/horiseon-accessibility/</a><br>
+<a href="https://jonmooney.github.io/horiseon-accessibility/" title="CTRL+Click to open in a new window">https://jonmooney.github.io/horiseon-accessibility/</a><br>
 CTRL+Click or CMD+Click to open in a new window
 
 Right click on the web page and select 'View Page Source'<br>
@@ -27,7 +27,7 @@ Look for Semantic HTML elements such as the following:<br>
 `<main>`<br>
 `<nav>`<br>
 `<section>`<br>
-For a complete list, see the <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">Semantic HTML elements</a> page on W3 Schools.
+For a complete list, see the <a href="https://www.w3schools.com/html/html5_semantic_elements.asp" title="CTRL+Click to open in a new window">Semantic HTML elements</a> page on W3 Schools.
 
 ### Screenshot: Overall look
 <img src="./assets/images/screenshot1.jpg" width="600" />
