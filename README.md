@@ -15,7 +15,8 @@ This project was a great oppurtunity to put into practice some of the latest HTM
 
 ## Usage
 Visit the live site at the following URL:<br>
-<a href="https://jonmooney.github.io/horiseon-accessibility/" target="_blank">https://jonmooney.github.io/horiseon-accessibility/</a>
+<a href="https://jonmooney.github.io/horiseon-accessibility/" target="_blank">https://jonmooney.github.io/horiseon-accessibility/</a><br>
+CTRL+Click or CMD+Click to open in a new window
 
 Right click on the web page and select 'View Page Source'<br>
 Look for logical commenting for different sections<br>
