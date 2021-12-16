@@ -29,10 +29,10 @@ Look for Semantic HTML elements such as the following:<br>
 For a complete list, see the <a href="https://www.w3schools.com/html/html5_semantic_elements.asp" title="CTRL+Click to open in a new window">Semantic HTML elements</a> page on W3 Schools.
 
 ### Screenshot: Overall look
-<img src="assets/images/screenshot1.jpg" width="600" alt="screenshot of main page layout" />
+<img src="./assets/images/screenshot1.jpg" width="700" alt="screenshot of main page layout" />
 
 ### Screenshot: Example of comments, semantic elements, and alt attribute
-<img src="assets/images/screenshot2.jpg" alt="screenshot of code" />
+<img src="./assets/images/screenshot2.jpg" alt="screenshot of code" />
 
 ## Features
 HTML<br>
