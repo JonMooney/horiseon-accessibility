@@ -32,7 +32,7 @@ For a complete list, see the <a href="https://www.w3schools.com/html/html5_seman
 <img src="./assets/images/screenshot1.jpg" width="700" alt="screenshot of main page layout" />
 
 ### Screenshot: Example of comments, semantic elements, and alt attribute
-<img src="./assets/images/screenshot2.jpg" alt="screenshot of code" />
+
 
 ## Features
 HTML<br>
